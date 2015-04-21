@@ -53,6 +53,7 @@ Coupe.prototype.getColor = function() {
   return "Coupe " + color;
 }
 ```
+http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
 
 ### Repaso de conceptos:: API (Application Programming Interface)
 
@@ -73,6 +74,7 @@ response:
   friends: {array}
 }
 ```
+http://www.webopedia.com/TERM/A/API.html
 
 #### ReSTful API
 
@@ -95,8 +97,11 @@ Las APIs exceden su definicion inicial de mera transferencia utilizando todos lo
 
   * Emitter API
   * Objetos Observables
+  * Delegacion
   * Listeners
   * Job Queues
   * DOM
+
+http://api.jquery.com/on/
 
 
